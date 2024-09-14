@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NewCodingExperience
 - 👀 I’m interested in learning more about coding and Artificial Intelligence
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Javascript
 - ⚡ Fun fact: I like to travel
 
 <!---
