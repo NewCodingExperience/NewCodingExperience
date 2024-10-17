@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @NewCodingExperience
 - 👀 I’m interested in learning more about coding and recently started learning Javascript.
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreadcrumbsNewCodingExperience
-)](https://github.com/BreadcrumbsNewCodingExperience
-/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewExperience)](https://github.com/NewExperience/github-readme-stats)
 
 
 
